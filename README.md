@@ -2,5 +2,5 @@
 
 Simple Shell Team Project.
 
-AUTHORS
+AUTHORS:    
 Samuel Omotayo; Anita Ekogiawe
